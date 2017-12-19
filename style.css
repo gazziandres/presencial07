@@ -1,0 +1,39 @@
+header{
+	color: white;
+}
+header ul li{
+	float: right;
+	margin: 0 3%;
+	list-style: none;
+	color: rgba(128,128,128,0.8);
+}
+
+.header-background{
+	background: url(images/bg.jpeg);
+	min-height: 300px;
+}
+
+
+body{
+	margin: 0;
+}
+
+footer h3{
+	padding: 20px 10%;
+	background: black;
+	color: lightgrey;
+	font-size: 0.8em;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.img-header{
+	max-width: 50%;
+	margin-left: 5%;
+}
+
+.email-lightblue{
+	color: rgba(0,150,255,0.7);
+}
